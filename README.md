@@ -2,7 +2,7 @@
 
 ✨ I'm Linh To ✨
 
-🌱 I'm an aspring data analyst fascinated with the ability to translate large datasets to uncover insights and make data-driven decisions.
+🌱 I'm an aspiring data analyst fascinated with the ability to translate large datasets to uncover insights and make data-driven decisions.
 
 💪 I have experienced using SQL, Python, R, Excel and Tableau to clean and organize data, execute data analysis, and create insightful visualizations to communicate findings with stakeholders.
 
