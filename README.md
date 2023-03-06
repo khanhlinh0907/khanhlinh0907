@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**khanhlinh0907/khanhlinh0907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ I'm Linh To ✨
 
-Here are some ideas to get you started:
+🌱 I'm an aspring data analyst fascinated with the ability to translate large datasets to uncover insights and make data-driven decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💪 I have experienced using SQL, Python, R, Excel and Tableau to clean and organize data, execute data analysis, and create insightful visualizations to communicate findings with stakeholders.
+
+✨ As a data analyst, I have a strong attention to detail, excellent problem-solving skills, and most importantly, a passion with data.
+
+🔎 I'm looking to work with you as a data analyst or ICT business analyst.
+
+🧩 Side hustle: Learning more about UX/UI design and mobile application development with Java, or play puzzle to practice problem-solving skills
+
+📫 Contact me via:
+
+- Email: khanhlinh0907@gmail.com
+
+- LinkedIn: www.linkedin.com/in/linhto0907
